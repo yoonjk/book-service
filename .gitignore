@@ -3,7 +3,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 bin/*
-.mvn/*
+.mvn/wrapper/*
 
 ### STS ###
 .apt_generated
