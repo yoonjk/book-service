@@ -1,9 +1,10 @@
 HELP.md
 target/
-.mvn/*
+!.mvn/*
 !**/src/main/**/target/
 !**/src/test/**/target/
 bin/*
+.mvn/
 
 ### STS ###
 .apt_generated
